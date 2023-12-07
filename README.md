@@ -1,6 +1,6 @@
 ## Hi! I'm Rômulo Lima
 
-- ​🧑‍💻​ Desenvolvedor Fullstack Web
+- ​💻​ Fullstack Web Developer for 10+ years
 - 🎮 Game Developer in my spare time
 - 🚀 More than 7 games released
 - 😄 Pronouns: ele/dele
