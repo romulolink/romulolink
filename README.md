@@ -7,7 +7,7 @@
 
 <div>
   <a href="https://www.linkedin.com/in/r%C3%B4mulo-lima-o-06132733/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=romulolink&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=romulolink&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romulolink&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
   
